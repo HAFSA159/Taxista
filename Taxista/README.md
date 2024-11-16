@@ -50,7 +50,7 @@ The **Taxi Management API** is a RESTful application designed to digitalize taxi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Douaesb/taxista.git
+   git clone (https://github.com/HAFSA159/Taxista)
    cd taxista
 
 
